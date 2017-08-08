@@ -1,14 +1,14 @@
 <resources>
-    <string name="str_1">RelativeLayout</string>
-    <string name="str_2">RelativeLayout</string>
-    <string name="str_3">RelativeLayout</string>
-    <string name="str_4">RelativeLayout</string>
+    <string name="str_1">1</string>
+    <string name="str_2">2</string>
+    <string name="str_3">3</string>
+    <string name="str_4">4</string>
 
-    <string name="str_5">RelativeLayout</string>
-    <string name="str_6">RelativeLayout</string>
-    <string name="str_7">RelativeLayout</string>
-    <string name="str_8">RelativeLayout</string>
-    <string name="str_9">RelativeLayout</string>
+    <string name="str_5"> " center "</string>
+    <string name="str_6">6</string>
+    <string name="str_7">7</string>
+    <string name="str_8">8</string>
+    <string name="str_9">9</string>
 
 
 </resources>
